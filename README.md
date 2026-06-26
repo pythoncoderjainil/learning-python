@@ -1,2 +1,2 @@
 # learning-python
-learning python from scratch from campusx
+My python learning from day 1
